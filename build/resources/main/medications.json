@@ -1,0 +1,54 @@
+{
+  "medications": [
+    {
+      "name": "Pantoprazol",
+      "dosage": "20-40mg",
+      "frequency": "1x täglich",
+      "schedule": {
+        "time": "07:00",
+        "daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+      },
+      "instructions": "Einnahme bitte auf nüchternen Magen."
+    },
+    {
+      "name": "Metaprolol",
+      "dosage": "50-200mg",
+      "frequency": "1x täglich",
+      "schedule": {
+        "time": "07:00",
+        "daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+      },
+      "instructions": "Mit Wasser einnehmen."
+    },
+    {
+      "name": "ASS100",
+      "dosage": "100mg",
+      "frequency": "1x täglich",
+      "schedule": {
+        "time": "09:00",
+        "daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+      },
+      "instructions": "Bitte nicht die Tablette zerkauen."
+    },
+    {
+      "name": "Doxazosin",
+      "dosage": "1 Tablette",
+      "frequency": "1x täglich",
+      "schedule": {
+        "time": "22:00",
+        "daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+      },
+      "instructions": ""
+    },
+    {
+      "name": "Simvastatin",
+      "dosage": "10-40mg",
+      "frequency": "1x täglich",
+      "schedule": {
+        "time": "22:00",
+        "daysOfWeek": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+      },
+      "instructions": "Bitte nicht mit Grapefruitsaft einnehmen!"
+    }
+  ]
+}

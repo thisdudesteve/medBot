@@ -1,0 +1,11 @@
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/service/EthicalBlackBoxService.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/model/Medication.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/flow/main/medicationInstructions.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/main.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/flow/main/idle.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/flow/main/greeting.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/flow/main/medicationCheck.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/service/MedicationService.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/flow/init.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/flow/parent.kt
+/Users/steve/Downloads/tutorials-main/medicalassistant/src/main/kotlin/furhatos/app/medicalassistant/setting/testdatetime.kt
